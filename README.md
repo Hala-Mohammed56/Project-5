@@ -1,5 +1,4 @@
-# Project-5
-# Travel Planner App
+# Project-5: Travel Planner App
 
 ## About This Project
 The **Travel Planner App** helps you organize trips effortlessly! Just enter your destination and departure date, and you'll get a **weather forecast** and an **image** of your location. 
@@ -28,6 +27,9 @@ Built with **JavaScript, Webpack, and Express**, this app also works **offline**
 
 ## How to Run the Project
 ### 1. Clone the Project
+```sh
+cd travel-planner-app
+```
 
 ### 2. Install Dependencies
 ```sh
@@ -60,8 +62,10 @@ Open **`http://localhost:8080/`**
 To test the app using Jest:
 ```sh
 npm test
+```
 
 ---
+
 
 
 ### License
