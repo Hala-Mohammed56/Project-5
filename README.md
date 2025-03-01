@@ -13,6 +13,10 @@ Built with **JavaScript, Webpack, and Express**, this app also works **offline**
 - View an **image of your destination**
 - Works **offline** with service workers
 - **Live updates** with Webpack Dev Server
+---
+
+  ## Prerequisites
+- **Node.js v22.12.0**
 
 ---
 
